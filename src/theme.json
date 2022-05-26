@@ -1,0 +1,23 @@
+{
+  "fonts": {
+    "primary": {
+      "name": "Poppins",
+      "weights": [300, 400, 500, 600]
+    },
+    "special": {
+      "name": "Lobster",
+      "weights": [400]
+    }
+  },
+  "colors": {
+    "backgroundColor": "#111111",
+    "backgroundActive": "#1e1e1e", 
+    "cardColor": "#202020",
+    "borderColor": "#292929",
+    "headingColor": "#FFF",
+    "gray": "#8b8b8b",
+    "orange": "#ff6b35",
+    "green": "#317243",
+    "warning": "#b24040"
+  }
+}
